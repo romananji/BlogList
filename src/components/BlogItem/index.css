@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.blog-list-item {
+  width: 95%;
+  margin: auto;
+}
+.title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.date {
+  font-size: 14px;
+}
+.title {
+  font-size: 16px;
+}
+.description {
+  font-size: 12px;
+}

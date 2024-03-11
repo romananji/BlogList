@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.blog-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}

@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.userprofile-container {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.userprofile-image {
+  height: 70px;
+  width: 70px;
+}
+.userprofile-heading {
+  font-size: 16px;
+  color: #12022f;
+}
+.userprofile-about {
+  color: #9aa5b1;
+}
